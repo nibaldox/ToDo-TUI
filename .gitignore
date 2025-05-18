@@ -1,0 +1,15 @@
+# Archivos y carpetas que no se deben subir al repositorio
+__pycache__/
+*.pyc
+*.pyo
+*.db
+.env
+.vscode/
+*.sqlite3
+*.log
+# Archivos temporales
+*.tmp
+*.bak
+# Configuración de usuario
+*.swp
+.idea/
